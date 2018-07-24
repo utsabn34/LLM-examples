@@ -1,4 +1,5 @@
 package com.javafx.chartexample;
+import java.util.Scanner;
 
 public class PieChartExample extends Application{
 
