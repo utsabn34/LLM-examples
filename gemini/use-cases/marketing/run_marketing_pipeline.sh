@@ -13,7 +13,7 @@ gcloud auth application-default login
 
 # ---- Step 3: Set environment variables ----
 echo "Setting environment variables..."
-export GOOGLE_CLOUD_PROJECT="your-project-id"   # <-- Replace with your actual project ID
+export GOOGLE_CLOUD_PROJECT="oni-bq-gemini-demo"   # <-- Replace with your actual project ID
 export GOOGLE_CLOUD_REGION="us-central1"
 
 # ---- Step 4: Run the Gemini marketing pipeline ----
